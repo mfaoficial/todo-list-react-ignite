@@ -52,3 +52,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br />
  <sub><b>Matheus F. Aquino</b></sub></a>
  <br />
+ 
+ ---
+ 
+ ### Imagem do Projeto
+ 
+ ![TODO List Ignite](https://prnt.sc/WgzRQXdJWb_t)
