@@ -57,4 +57,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
  ### Imagem do Projeto
  
-[Imgur](https://imgur.com/BTe6VTB)
+[img]https://i.imgur.com/BTe6VTB.png[/img]
