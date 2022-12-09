@@ -57,4 +57,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
  ### Imagem do Projeto
  
- ![TODO List Ignite](https://imgur.com/a/tI5p6Z2)
+[Imgur](https://imgur.com/BTe6VTB)
