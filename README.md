@@ -44,16 +44,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </table>
 
 ---
-
-### 🦸 Autor
-
-<a href="https://github.com/mfaoficial">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/56968366?s=64&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Matheus F. Aquino</b></sub></a>
- <br />
- 
- ---
  
  ### Imagem do Projeto
  
